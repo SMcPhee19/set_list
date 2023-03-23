@@ -244,6 +244,7 @@
           null,
           1,
           1,
+          1,
           null
         ]
       },
@@ -253,10 +254,69 @@
           null
         ]
       },
+      "/Users/stevomac/turing_work/2mod/lessons/set_list/spec/features/songs/show_spec.rb": {
+        "lines": [
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/stevomac/turing_work/2mod/lessons/set_list/spec/models/artist_spec.rb": {
+        "lines": [
+          null,
+          1,
+          null,
+          1,
+          2,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/stevomac/turing_work/2mod/lessons/set_list/app/models/artist.rb": {
         "lines": [
           1,
           1,
+          null,
+          1,
+          null,
+          3,
+          null,
           null
         ]
       },
@@ -267,9 +327,35 @@
           null
         ]
       },
+      "/Users/stevomac/turing_work/2mod/lessons/set_list/spec/models/song_spec.rb": {
+        "lines": [
+          null,
+          1,
+          null,
+          1,
+          2,
+          null
+        ]
+      },
       "/Users/stevomac/turing_work/2mod/lessons/set_list/app/models/song.rb": {
         "lines": [
           1,
+          1,
+          null
+        ]
+      },
+      "/Users/stevomac/turing_work/2mod/lessons/set_list/app/controllers/artist_songs_controller.rb": {
+        "lines": [
+          1,
+          1,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/stevomac/turing_work/2mod/lessons/set_list/app/controllers/application_controller.rb": {
+        "lines": [
           1,
           null
         ]
@@ -282,18 +368,12 @@
           null,
           null,
           1,
-          2,
+          3,
           null,
-          null
-        ]
-      },
-      "/Users/stevomac/turing_work/2mod/lessons/set_list/app/controllers/application_controller.rb": {
-        "lines": [
-          1,
           null
         ]
       }
     },
-    "timestamp": 1679540482
+    "timestamp": 1679546522
   }
 }
